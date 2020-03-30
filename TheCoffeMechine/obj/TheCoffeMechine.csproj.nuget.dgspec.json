@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kuliah\\semester 2\\Pemrograman\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj": {}
+    "D:\\Kuliah\\semester 2\\Pemrograman\\Project\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj": {}
   },
   "projects": {
-    "D:\\Kuliah\\semester 2\\Pemrograman\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj": {
+    "D:\\Kuliah\\semester 2\\Pemrograman\\Project\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kuliah\\semester 2\\Pemrograman\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj",
+        "projectUniqueName": "D:\\Kuliah\\semester 2\\Pemrograman\\Project\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj",
         "projectName": "TheCoffeMechine",
-        "projectPath": "D:\\Kuliah\\semester 2\\Pemrograman\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj",
+        "projectPath": "D:\\Kuliah\\semester 2\\Pemrograman\\Project\\TheCoffeMechine\\TheCoffeMechine\\TheCoffeMechine.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Kuliah\\semester 2\\Pemrograman\\TheCoffeMechine\\TheCoffeMechine\\obj\\",
+        "outputPath": "D:\\Kuliah\\semester 2\\Pemrograman\\Project\\TheCoffeMechine\\TheCoffeMechine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
